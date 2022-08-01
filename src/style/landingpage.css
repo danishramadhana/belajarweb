@@ -1,0 +1,53 @@
+.myBG {
+    height: 100vh;
+    background: url(../assets/images/bg/bg2.jpg);
+    background-size: cover;
+}
+
+.Intro {
+    height: 300px;
+    display: flex;
+    align-items: end;
+    justify-content: end;    
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.buah {
+    height: 100vh;
+    background: url(../assets/images/bg/bg1.jpg);
+    background-size: cover;   
+}
+
+.BUAHImages {
+    height: 200px;
+    width: 200px;
+    padding: 6px;
+    margin: 6px;
+}
+
+.sayur {
+    height: 100vh;
+    background: url(../assets/images/bg/bg1.jpg);
+    background-size: cover;   
+}
+
+.SAYURImages {
+    height: 200px;
+    width: 200px;
+    padding: 6px;
+    margin: 6px;
+}
+
+.tertentu {
+    width: 150px;
+    height: 120x;
+    padding: 6px;
+    margin: 6px;
+}
